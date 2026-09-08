@@ -1,0 +1,11 @@
+nombre,tiene_pelo,pone_huevos,sangre_caliente,clase
+Perro,1,0,1,Mamifero
+Gato,1,0,1,Mamifero
+Serpiente,0,1,0,Reptil
+Lagarto,0,1,0,Reptil
+Murcielago,1,0,1,Mamifero
+Tortuga,0,1,0,Reptil
+Ornitorrinco,1,1,1,Mamifero
+Cocodrilo,0,1,0,Reptil
+Raton,1,0,1,Mamifero
+Iguana,0,1,0,Reptil
