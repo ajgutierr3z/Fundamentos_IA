@@ -1,0 +1,11 @@
+Article_ID,Title,Topic,Publish_Date,Views,Reads,Claps,Comments
+001,Introduccion a Python,Programacion,2023-01-15,1500,800,250,12
+002,El futuro de la IA,Tecnologia,2023-01-22,3200,1500,890,45
+003,Guia de Matplotlib,Programacion,2023-02-05,950,400,120,5
+004,Liderazgo en remoto,Negocios,2023-02-18,2100,1100,450,22
+005,Machine Learning basico,Tecnologia,2023-03-01,2800,1350,600,30
+006,Productividad matutina,Desarrollo Personal,2023-03-12,4500,3200,1200,85
+007,Bases de datos NoSQL,Programacion,2023-03-25,1100,500,150,8
+008,Invertir en startups,Negocios,2023-04-02,1800,900,300,15
+009,Meditacion para programadores,Desarrollo Personal,2023-04-14,3800,2100,950,60
+010,Visualizacion con Tableau,Tecnologia,2023-04-20,2400,1200,480,25
